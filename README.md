@@ -1,7 +1,7 @@
 ## Bienvenid@ 👋
 
 
-### Tecnologias mas utilizadas y que manejo a nivel Intermedio
+### Tecnologias Principales
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
@@ -20,7 +20,7 @@
 </div>
 
 
-### Tecnologias que utilizo poco y tengo conocimiento basico pero funcional
+### Tecnologias basicas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
